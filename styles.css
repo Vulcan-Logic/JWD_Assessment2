@@ -9,8 +9,12 @@ body {
 }
 
 #projects {
-    height: 120vh;
+    height: 150vh;
     padding-top: 100px;
+}
+
+.card-img-top {
+    border: 1px solid black;
 }
 
 
@@ -25,7 +29,7 @@ body {
 #aboutRow1-2 {
     height: 40vh;
 }
-#projectRow1-2 {
+#projectRow1-3 {
     margin-top: 10px;
 }
 .navbar {
