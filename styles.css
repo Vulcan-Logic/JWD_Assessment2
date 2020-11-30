@@ -1,0 +1,45 @@
+#about,
+#projects,
+#contact {
+    height: 100vh;
+    padding-top: 100px;
+}
+
+#contactRow1-2 {
+    height: 60vh;
+}
+
+#aboutRow1-1 {
+    height: 40vh;
+}
+
+#aboutRow1-2 {
+    height: 30vh;
+}
+
+
+/* .navbar {
+    background-color: #606060 !important;
+}
+
+.nav-item,
+.nav-link,
+.navbar-brand {
+    color: #D6ED17 !important;
+}
+
+.nav-item:active {
+    text-decoration: underline;
+} 
+
+#about,
+#contact {
+    color: #D6ED17FF;
+    background-color: #2C5F2D;
+}
+
+#projects {
+    color: #606060FF;
+    background-color: #97BC62FF;
+}
+*/
